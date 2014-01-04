@@ -1,0 +1,4 @@
+snakecube
+=========
+
+Snake Cube solver
